@@ -1,4 +1,4 @@
-         @page { size: 21.59cm 27.94cm; margin: 2cm } p { margin-bottom: 0.21cm; background: transparent } h5 { margin-top: 0.21cm; margin-bottom: 0.11cm; background: transparent; page-break-after: avoid } h5.western { font-family: "Nimbus Sans L", sans-serif; font-size: 12pt; font-weight: bold } h5.cjk { font-family: "DejaVu Sans"; font-size: 12pt; font-weight: bold } h5.ctl { font-family: "DejaVu Sans"; font-size: 12pt; font-weight: bold } a:link { color: #000080; text-decoration: underline } a:visited { color: #800000; text-decoration: underline }
+
 
 Гайд по настройке технических и программных средств информационно-коммуникационных систем.
 
